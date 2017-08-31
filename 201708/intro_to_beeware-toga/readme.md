@@ -1,4 +1,4 @@
-# Powershell on Linux
+# Introduction to BeeWare (and Toga Widget Development)
 material presented by Paul Lorett Amazona
 
 on 29Aug2017
